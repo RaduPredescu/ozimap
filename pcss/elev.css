@@ -284,7 +284,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 #imCell_3 { display: block; position: relative; }
 #imCellStyle_3 { position: relative; box-sizing: border-box; text-align: center; z-index: 2;}
 #imCellStyleGraphics_3 { position: absolute; top: 3px; bottom: 3px; background-color: transparent; }
-#imObjectImage_6_03 { width: 100%; vertical-align: top; max-width: 186px; }
+#imObjectImage_6_03 { width: 100%; vertical-align: top; max-width: 186px; margin-top: 25%; margin-bottom: 0 }
 #imCell_2 { display: block; position: relative; }
 #imCellStyle_2 { position: relative; box-sizing: border-box; text-align: center; z-index: 2;}
 #imCellStyleGraphics_2 { position: absolute; top: 3px; bottom: 3px; background-color: transparent; }
